@@ -10,7 +10,7 @@
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](http://gokulrajjayakumar.uta.cloud/Jayakumar_portfolio/HomePage.html) 🌐 <br>
+  ⦿ Visit my [Website](https://nostalgic-visvesvaraya-bd36d6.netlify.app/) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/jgokulraj/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:gokulrajhere@gmail.com) 💌 <br>
   
