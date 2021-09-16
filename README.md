@@ -5,7 +5,7 @@
 - 🔭 I’m currently figuring out why Data Science is so Cool 😍
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with ML enthusiast
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 -  ⚡ Fun fact: I love to cook, and try new recepices.
 
 ### 📫 How to reach me? 
