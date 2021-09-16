@@ -1,6 +1,6 @@
 ### Hi there, I'm Gokul 👋
 
-## I'm a MSCS Grad, Data Science Intern, Competitive Programmer !
+## I'm a MSCS Grad, Data Scientist, Competitive Programmer !
 
 - 🔭 I’m currently figuring out why Data Science is so Cool 😍
 - 🌱 I’m currently learning everything 🤣
